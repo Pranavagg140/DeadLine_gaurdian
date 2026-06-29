@@ -1,0 +1,6 @@
+{
+  "name": "Deadline Guardian",
+  "description": "An elite AI-powered productivity companion that predicts procrastination, breaks down overwhelming goals, scores task urgency, and schedules your day based on energy levels and moods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
